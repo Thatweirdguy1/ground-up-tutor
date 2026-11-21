@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "description": "Teach any subject from first principles with simple explanations, adaptive practice, source-grounded lessons and visual learning.",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Ground Up Tutor",
+    "shortDescription": "Complex subjects made simple",
+    "longDescription": "A patient tutor that builds a subject from its prerequisites, explains in everyday language, teaches with worked examples and useful visuals, and adapts to your answers. Uses available Browser and Google Drive capabilities for sources, Data and Visualize for models, AhaMotion for explanatory video, Quizlet for flashcards, and PDF, Presentations, Spreadsheets and Documents for study resources. Companion capabilities require availability and any necessary account connection; this plugin provides the teaching workflow rather than a new backend.",
+    "developerName": "Prabhav Goel",
+    "category": "Education & Research",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Teach me a subject from the ground up, using simple language and examples.",
+      "Use my syllabus and study materials to teach me one topic at a time.",
+      "Help me understand a difficult topic with visuals, practice and flashcards."
+    ]
+  },
+  "repository": "https://github.com/Thatweirdguy1/ground-up-tutor",
+  "name": "ground-up-tutor",
+  "author": {
+    "name": "Prabhav Goel"
+  }
+}
